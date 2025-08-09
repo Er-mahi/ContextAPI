@@ -1,4 +1,12 @@
-# React + Vite
+# ContextAPI
+It describe how to use contextapi, to get rid of prop drilling. 
+From this repo I want to continue make profile more green 😀 in next 100 days.
+
+
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
